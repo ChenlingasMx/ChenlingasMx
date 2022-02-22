@@ -16,3 +16,5 @@ Here is some personal information about me:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uiwjs&repo=uiw-admin&theme=buefy)](https://github.com/uiwjs/uiw-admin)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uiwjs&repo=react-native-uiw&theme=buefy)](https://github.com/uiwjs/react-native-uiw)
+
