@@ -1,16 +1,18 @@
-### Hi there 👋
+### 🚀 Welcome to ChenlingasMx Zone
 
-<!--
-**ChenlingasMx/ChenlingasMx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is some personal information about me:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Shanghai
+- 🌱 I’m currently learning && using React.js/TypeScript/C++...
+- 👯 Ask me about any question about my repos or directly give me a issue/pr~
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenlingasMx&theme=buefy&show_icons=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uiwjs&repo=uiw&theme=buefy)](https://github.com/uiwjs/uiw)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uiwjs&repo=uiw-admin&theme=buefy)](https://github.com/uiwjs/uiw-admin)
+
