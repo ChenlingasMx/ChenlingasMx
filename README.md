@@ -4,7 +4,7 @@ Here is some personal information about me:
 
 
 - 🔭 I’m currently working on Shanghai
-- 🌱 I’m currently learning && using React.js/TypeScript/C++...
+- 🌱 I’m currently learning && using React.js/TypeScript...
 - 👯 Ask me about any question about my repos or directly give me a issue/pr~
 
 
